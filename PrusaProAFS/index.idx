@@ -1,4 +1,5 @@
 min_slic3r_version = 2.8.0
+0.0.5 Added new naming scheme for profiles, new layer height and speed settings, added support for ASA
 0.0.4 Added metric bedlet_target
 0.0.3 Alpha release
 0.0.2 Fixes
