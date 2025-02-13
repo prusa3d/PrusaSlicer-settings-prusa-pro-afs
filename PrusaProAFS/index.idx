@@ -1,4 +1,5 @@
 min_slic3r_version = 2.8.0
+0.0.14 Start and End g-code optimized. 
 0.0.13 Added new profiles for ABS, lowered travel speed and turn on E relative distance.
 0.0.12 Improve PETG cooling and removing of some profiles.
 0.0.11 Lower heatbreak temp for ASA, PC and PPCF to 65c.
