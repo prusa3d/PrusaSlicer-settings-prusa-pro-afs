@@ -1,4 +1,5 @@
 min_slic3r_version = 2.8.0
+0.0.17 Added new profiles. Tuned Prusament PLA, PETG and PC Blend profiles. Tuned Structural profiles speeds to avoid VFA. 
 0.0.16 Change printer name. Retract height adujsted. Removed default printer profile. Added new materials from Buddy3D and Prusa Polymers.
 0.0.15 One speed for all profiles. Added filament vendor. Changed thumbnail size to 380x285px.
 0.0.14 Start and End g-code optimized. 
