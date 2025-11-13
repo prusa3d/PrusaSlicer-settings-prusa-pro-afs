@@ -1,3 +1,5 @@
+min_slic3r_version = 2.9.3
+0.0.23 Added cooling_slowdown_logic and cooling_perimeter_transition_distance to all profiles. Improved overhang performance for PLA profile. Improved printing quality for ABS profile.
 min_slic3r_version = 2.8.0
 0.0.22 Added bed shape and texture.
 0.0.21 Correction in compatible_printers_condition. Better PA for PETG profile. And improved Prusamnet PLA profile.
