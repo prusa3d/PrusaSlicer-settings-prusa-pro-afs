@@ -1,4 +1,5 @@
 min_slic3r_version = 2.9.3
+0.0.25 New start and end g-code with auto retracting, less filament waste. Improved PC Blend profile for better bridging and overhangs. Turn on JD for iX in all profiles. 
 0.0.24 Improved PCCF profile with better bridging and overhangs. Modify Buddy3D ABS profile for better quality.
 0.0.23 Added cooling_slowdown_logic and cooling_perimeter_transition_distance to all profiles. Improved overhang performance for PLA profile. Improved printing quality for ABS profile.
 min_slic3r_version = 2.8.0
