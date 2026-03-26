@@ -1,4 +1,5 @@
 min_slic3r_version = 2.9.3
+0.2.0 Removed Buddy3D PLA, PETG and ASA profiles. Tuned Prusament PLA Blend profile and Buddy3d PLA Silk profile. Add new Prusament TPU95A profile. Lowered max volumetric speed for Prusament PCCF profile. 
 0.1.2 Tuned Start and End g-code. Removed uPLA and PLA+ profiles.
 0.1.1 Firs layer speed up increased. Adjusted volumetric speed for Prusament PA profile. Lowered first layer bed temperature for Prusament PA profile. Change PA11 Carbon Fiber profile name. Deleted shrinkage compensation. Added short travel acceleration. Modify cooling for Prusament PCCF and Prusament PC Blend profiles. 
 0.1.0 Adujst for Prusament PA profile - changed first layer and bed temperature, volumetric speed and extrusion multiplier. Optimized cooling for ASA profile - added dynamic fan speeds and changed first layer temperature.
