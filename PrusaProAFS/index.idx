@@ -1,4 +1,5 @@
 min_slic3r_version = 2.9.3
+0.2.2 Fixed Buddy3D PLA Sikn filament profile.
 0.2.1 Tuned Prusament Prusament PCCF profile.
 0.2.0 Removed Buddy3D PLA, PETG and ASA profiles. Tuned Prusament PLA Blend profile and Buddy3d PLA Silk profile. Add new Prusament TPU95A profile. Lowered max volumetric speed for Prusament PCCF profile. 
 0.1.2 Tuned Start and End g-code. Removed uPLA and PLA+ profiles.
