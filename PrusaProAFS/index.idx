@@ -1,4 +1,5 @@
 min_slic3r_version = 2.9.3
+1.0.0 User release. Start g-code safety update. 
 0.2.3 Deleted Prusament TPU95A profile. Tuned filament profile for Prusament PLA Blend. Minor changes in formatting and naming of profiles.
 0.2.2 Fixed Buddy3D PLA Sikn filament profile.
 0.2.1 Tuned Prusament Prusament PCCF profile.
